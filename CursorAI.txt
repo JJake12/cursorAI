@@ -1,0 +1,18 @@
+https://github.com/kznetwork/CursorAI
+
+https://naver.me/GKIt8qzf
+
+https://naver.me/5t7rOpEX
+
+
+Report 폴더에 보고서를 내보내줘 (Agent)
+
+
+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
+
+https://github.com/JJake12/MagicSquare_xx.git
+
+git config --global user.emai="email data"
+                          user.name="email title"
+
+Github mcp를 이용해서... -> 속도가 빠르고 유리함
