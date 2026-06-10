@@ -16,3 +16,6 @@ git config --global user.emai="email data"
                           user.name="email title"
 
 Github mcp를 이용해서... -> 속도가 빠르고 유리함
+
+
+RED 단계에서 만든 스켈레톤 코드를 Green 처리할 수 있도록 최소한의 구현을 해줘
