@@ -25,9 +25,16 @@ Golden Master Approval Test 위해 Green Pass 단계를 완료해줘
 프로젝트 명..에 PyQT를 이용해서 최소한의 GUI 데모를 만들어줘
 
 
+PRD 해야할 목록.. 레드/그린 -> Readme 파일 갱신
+커서에게 질문해서 문제 파악..역할 지정 필요
+골든 마스터. 스모킹까지 목표로
+spec부터
 
 
+DIKW - Data / Information / Knowledge / Wisdom
+           존재   체계              지식            생각
 
+장점. 권장사항
 
 
 
